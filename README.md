@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:29/11/24
+## Register Number:24900188
+## Name:Hiba Nasreen M
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,45 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
-
+.Personalized Dashboard:
+    Tailored newsfeed based on interests and preferences.
+    Quick access to upcoming events, job postings, and alumni success stories.
+.Robust Networking Tools:
+   Advanced search filters to find alumni by location, industry.
+Mentorship matching program to connect experienced alumni with aspiring professionals
+.Event Planner:
+    Easy registration for virtual and in-person events (reunions, webinars, workshops)
+Integration with Google Calendar for seamless scheduling.
+.Secure Donation Portal:
+    Multiple payment options (credit card, net banking, UPI) for hassle-free donations.
+Real-time updates on donation impact and project progress.
+.User Friendly Interface:
+Intuitive design for both web and mobile platforms.
+.AI Features:
+Personalized recommendations, intelligent search, and chatbots for assistance.
+.Chat Room:
+Discussion boards for knowledge sharing,debate and casual conversation,poll and survey features to gather feedback and insights from the community
+.Alumni Inspirational Story:
+Highlighting the achievements of our distinguished alumni and motivating the next generation with the inspirational stories
 
 ## Proposed Solution / Architecture Diagram
+![sih flow chart](https://github.com/user-attachments/assets/d14d9844-7612-4169-ac85-e656b6458d6b)
 
 
 ## Use Cases
+![Screenshot 2024-11-29 081021](https://github.com/user-attachments/assets/539fe3c1-d8fd-4072-9c07-d45ea2983d6e)
 
 
 ## Technology Stack
-
-
+```
+react.js
+node.js
+express
+google pay
+google meet
+```
 ## Dependencies
-
+```
+Data Collection :10 days
+Budget:Eighty Thousand
+```
